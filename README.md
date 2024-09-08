@@ -1,6 +1,7 @@
-## Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=Rounded)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffc7c7,100:ffe0e0&height=120&text=Welcome%20to%20Jieun's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    </div>
+    
 <!--
 **Jieuneenee/Jieuneenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
